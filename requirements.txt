@@ -1,0 +1,8 @@
+ultralytics
+ultralyticsplus
+huggingface-hub
+opencv-python
+numpy<2
+streamlit
+yt-dlp
+imageio[ffmpeg]

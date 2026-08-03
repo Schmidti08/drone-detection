@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+demo/drone_video2.mp4
+demo/test_drone.mp4
+docs/

@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.analysis.extraPaths": ["${workspaceFolder}/src"],
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.useLibraryCodeForTypes": true,
+  "basedpyright.analysis.venvPath": "${workspaceFolder}",
+  "basedpyright.analysis.venv": ".venv",
+  "basedpyright.analysis.extraPaths": ["${workspaceFolder}/src"],
+  "basedpyright.analysis.diagnosticMode": "workspace",
+  "basedpyright.analysis.useLibraryCodeForTypes": true
+}
