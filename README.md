@@ -63,4 +63,4 @@ Mit `q` wird das Fenster geschlossen.
 
 ---
 
-*Portfolio-Projekt — Tjorben Schmidt, 2026*
+*Portfolio-Projekt — Tjorben Schmidt, 2026 · Entwickelt mit Unterstützung von Claude (Anthropic) als KI-Assistent.*
